@@ -92,7 +92,8 @@ Go to the project directory
 
 ## Authors
 
-#### Rahul Pandey
-- Email - pandeyrahul813684@gmail.com
+#### Kaushal Pandey
+- Email - kaushalpandey9808gmail.com
+
 
 
